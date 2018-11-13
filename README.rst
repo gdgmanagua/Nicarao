@@ -1,6 +1,10 @@
 Nicarao
 =======
 
+.. image:: https://badges.greenkeeper.io/gdgmanagua/Nicarao.svg
+   :alt: Greenkeeper badge
+   :target: https://greenkeeper.io/
+
 Platform for handling events
 
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg
